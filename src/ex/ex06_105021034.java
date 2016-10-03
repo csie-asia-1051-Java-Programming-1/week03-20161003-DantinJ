@@ -24,9 +24,9 @@ public class ex06_105021034 {
 		{
 			System.out.println("y="+((x*x*x)+(3*x)-3));
 		}
-		else
+		else if(x>1)
 		{
-			System.out.println("y="+(2*x)+3);
+			System.out.println("y="+(2*x+3));
 		}
 	}
 
