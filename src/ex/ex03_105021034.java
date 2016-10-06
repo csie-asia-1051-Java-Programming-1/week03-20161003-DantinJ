@@ -3,7 +3,7 @@ import java.util.Scanner;
 /*
  * Topic: 輸入一個字元，轉換其大小寫輸出 (大寫 ->小寫，小寫->大寫)
  * Date: 2016/10/03
- * Author: 1050210XX 周永振老師
+ * Author: 105021034 周宇晟
  */
 
 public class ex03_105021034 {
